@@ -1,4 +1,4 @@
-package main
+package demo
 
 func prints(flag bool) {
 	if flag {
