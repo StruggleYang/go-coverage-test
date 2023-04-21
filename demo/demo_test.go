@@ -12,5 +12,5 @@ func TestPrints2_1(t *testing.T) {
 }
 
 func TestPrints3_1(t *testing.T) {
-	prints2(false)
+	prints3(false)
 }
