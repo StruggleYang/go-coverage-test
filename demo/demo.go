@@ -15,3 +15,11 @@ func prints2(flag bool) {
 		println("none2")
 	}
 }
+
+func prints3(flag bool) {
+	if flag {
+		println("good3")
+	} else {
+		println("none3")
+	}
+}
